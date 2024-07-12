@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    
+}
+
+h1,h2,h3,h4{
+    color: darkgrey;
+    font-size: bold;
+    text-align: center;
+    font-weight: 400;
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: cornflowerblue;
+    font: italic;
+    font-weight: 200;
+}
+
+ul,ol{
+    color: darkslategrey;
+    font: icon;
+    font-weight: 200;
+}
